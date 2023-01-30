@@ -1,4 +1,6 @@
-Left Off: 2:04:46
+Left Off: 2:24:00
+
+tsc filename.ts --> runs the typescript file
 
 TypeScript
 
